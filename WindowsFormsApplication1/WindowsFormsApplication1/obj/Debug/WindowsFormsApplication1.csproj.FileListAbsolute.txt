@@ -1,0 +1,2 @@
+C:\Users\Darin\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Darin\Documents\GitHub\CSharpBootCamp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
